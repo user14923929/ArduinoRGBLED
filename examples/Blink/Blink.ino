@@ -1,6 +1,6 @@
 #include <ArduinoRGBLED.h>          // Include the ArduinoRGBLED library
                                     //
-ArdinoRGBLED led;                   // Create an instance of the ArdinoRGBLED class
+ArduinoRGBLED led;                   // Create an instance of the ArdinoRGBLED class
                                     //
 void setup() {                      //
   led.init(3, 5, 6);                // Initialize the RGB LED with pins 3, 5, and 6
