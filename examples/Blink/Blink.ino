@@ -1,4 +1,4 @@
-#include <ArdinoRGBLED.h>           // Include the ArdinoRGBLED library
+#include <ArduinoRGBLED.h>          // Include the ArduinoRGBLED library
                                     //
 ArdinoRGBLED led;                   // Create an instance of the ArdinoRGBLED class
                                     //
